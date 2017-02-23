@@ -13,4 +13,5 @@ chmod a+w -R translations/
 chmod a+w -R upload/
 chmod a+w -R download/
 chmod a+w [admin]/import/
+chmod 666 .htaccess
 chmod 775 ./
